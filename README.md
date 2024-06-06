@@ -21,6 +21,12 @@
 ###
 
 <div align="center">
+  <a href="https://farukmiftari-portfolio.netlify.app/" target="_blank">
+    <p>PORTFOLIO</p>
+  </a>
+<div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/farukmiftari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=farukmiftari&logo=linkedin&label=Connect%20with%20me:&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
