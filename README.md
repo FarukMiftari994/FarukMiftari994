@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">I have a Bachelor's degree in Computer Science and recently finished a Full Stack Developer program at Code Academy in Berlin. My computer science degree gives me a solid understanding of technology, and my training at Code Academy provided me with practical, hands-on experience in full stack development. I am skilled in modern web technologies and frameworks, and I can build and maintain dynamic and responsive web applications from start to finish.<br><br>I speak: German, English, Albanian, Macedonian and Turkish.</p>
+<p align="center">I am a Computer Science graduate with a strong foundation in technology, bolstered by practical, hands-on experience in full stack development from Code Academy in Berlin. My training has equipped me with the skills to build and maintain dynamic and responsive web applications from start to finish. I am proficient in modern web technologies and frameworks, and I thrive in environments where I can leverage my technical expertise to develop innovative solutions.</p>
 
 ###
 
